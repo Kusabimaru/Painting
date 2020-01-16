@@ -1,0 +1,11 @@
+body, html { 
+  background-color: #f6f6f6
+}
+
+#painting {
+  background-color: #fff4db;
+  width: 400px;
+  height: 400px;
+  margin: 30px auto 0;
+  box-shadow: 10px 10px 0px #8d8d8d
+}
